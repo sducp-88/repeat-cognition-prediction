@@ -586,8 +586,6 @@ def build_supplement(output_dir: Path) -> str:
         "",
         "**Article title:** Repeat Cognitive Assessment for Predicting Memory Decline Across 3 National Aging Cohorts",
         "",
-        "**Status:** Submission-ready content draft. Page numbers are assigned in the formatted Word version.",
-        "",
         "## Supplement Contents",
         "",
         "- eMethods 1. Data Sources, Study Design, and Governance",
@@ -641,7 +639,7 @@ def build_supplement(output_dir: Path) -> str:
         "",
         "## eMethods 5. Missing Outcomes, Sensitivity Analyses, and Machine Learning",
         "",
-        "The primary analysis evaluated participants with observed 3-wave cognition. In CHARLS and HRS, inverse-probability-of-cognitive-outcome-observation weights were estimated among index-eligible participants. Stabilized weights were truncated at the cohort-specific 1st and 99th percentiles and applied to performance estimation without changing model training. Subgroup estimates by sex, age, education, and residence were descriptive and were not used for model selection. ELSA subgroup reporting included sex, age, and education; residence was not required for the frozen M1/M2 comparison. Race and ethnicity were not analyzed because comparable harmonized categories were unavailable across the Chinese, US, and English cohort contexts.",
+        "The primary analysis evaluated participants with observed 3-wave cognition. In CHARLS and HRS, inverse-probability-of-cognitive-outcome-observation weights were estimated among index-eligible participants. Stabilized weights were truncated at the cohort-specific 1st and 99th percentiles and applied to performance estimation without changing model training. Subgroup estimates by sex, age, education, and residence were descriptive and were not used for model selection. ELSA subgroup reporting included sex, age, and education; residence was not required for the frozen M1/M2 comparison. Race and ethnicity were not analyzed because comparable harmonized categories were unavailable across the Chinese, US, and English cohort contexts; country was not interpreted as a proxy for race or ethnicity.<sup>11-14</sup>",
         "",
         "Elastic-net logistic regression and histogram gradient boosting used the M3 candidate information. Hyperparameters were selected only within nested CHARLS training folds. HRS was used solely for external comparison of the selected algorithms. Machine learning was secondary because it did not improve external performance over the transparent M2 model.",
         "",
@@ -752,6 +750,14 @@ def build_supplement(output_dir: Path) -> str:
         "9. Collins GS, Moons KGM, Dhiman P, et al. TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods. BMJ. 2024;385:e078378. doi:10.1136/bmj-2023-078378",
         "",
         "10. von Elm E, Altman DG, Egger M, et al. The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies. Lancet. 2007;370(9596):1453-1457. doi:10.1016/S0140-6736(07)61602-X",
+        "",
+        "11. Glymour MM, Manly JJ. Lifecourse social conditions and racial and ethnic patterns of cognitive aging. Neuropsychol Rev. 2008;18(3):223-254. doi:10.1007/s11065-008-9064-z",
+        "",
+        "12. Avila JF, Arce Renteria M, Witkiewitz K, Verney SP, Vonk JMJ, Manly JJ. Measurement invariance of neuropsychological measures of cognitive aging across race/ethnicity by sex/gender groups. Neuropsychology. 2020;34(1):3-14. doi:10.1037/neu0000584",
+        "",
+        "13. Merkley TL, Esopenko C, Zizak VS, et al. Challenges and opportunities for harmonization of cross-cultural neuropsychological data. Neuropsychology. 2023;37(3):237-246. doi:10.1037/neu0000818",
+        "",
+        "14. Iveniuk J, Zhong S, Wilder J, et al. Race/ethnicity and the measurement of cognition in the National Social Life, Health, and Aging Project: recommendations for robustness. J Gerontol B Psychol Sci Soc Sci. 2025;80(suppl 1):S55-S65. doi:10.1093/geronb/gbae043",
     ]
     return "\n".join(sections) + "\n"
 
