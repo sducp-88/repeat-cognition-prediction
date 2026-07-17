@@ -25,12 +25,13 @@ Development and internal evaluation use CHARLS 2011-2013-2015. External evaluati
 6. `26_repeat_cognition_reporting_assets.py` regenerates prediction-based calibration and decision-curve data.
 7. `27_current_results_and_manuscript_positioning.py` summarizes the final 1000-bootstrap results.
 8. `28_formal_external_validation_and_tables.py` creates formal absolute-performance CIs, subgroup results, fixed-capacity metrics, and manuscript tables.
-9. `29_journal_figures.py` renders 300-dpi PNG and TIFF figures from aggregate outputs.
+9. `29_journal_figures.py` renders 300-dpi PNG and TIFF backup figures from aggregate outputs.
 10. `30_freeze_models_and_manifest.py` saves the final CHARLS M1/M2 pipelines and a SHA-256 manifest.
 11. `31_elsa_data_inventory_and_validation.py` verifies raw versus harmonized ELSA core fields and constructs the locked wave 6-8 sample.
 12. `32_elsa_frozen_model_validation.py` verifies artifact hashes and performs the untouched ELSA confirmation.
 13. `33_build_supplement.py` assembles eMethods and aggregate eTables, including frozen coefficients and artifact verification.
-14. The manuscript workspace uses a separate editorial audit to check agreement among aggregate CSVs, manuscript values, figures, and the supplement; that audit is not needed to rerun the public analysis.
+14. `40_jama_vector_figures.py` creates the submission-ready vector PDF figures, editable SVG files, and plot-specific aggregate CSV files.
+15. The manuscript workspace uses separate editorial and packaging audits; these are not needed to rerun the public analysis.
 
 ## Final Commands
 
@@ -44,13 +45,14 @@ python 30_freeze_models_and_manifest.py
 python 31_elsa_data_inventory_and_validation.py
 python 32_elsa_frozen_model_validation.py --bootstrap 1000
 python 33_build_supplement.py
+python 40_jama_vector_figures.py
 ```
 
 Run the commands with Python 3.12 or later in an isolated environment.
 
 ## Data Governance
 
-The formal reporting scripts save aggregate tables, figures, model pipelines, software metadata, and hashes. They do not save person-level CHARLS or HRS records. Access to the source cohort data remains governed by the respective data-use agreements.
+The formal reporting scripts save aggregate tables, figures, model pipelines, software metadata, and hashes. The vector-figure directory contains only aggregate plotted values and artwork; it does not contain person-level CHARLS, HRS, or ELSA records. Access to the source cohort data remains governed by the respective data-use agreements.
 
 ## ELSA Confirmation
 

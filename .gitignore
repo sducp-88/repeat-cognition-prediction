@@ -13,6 +13,10 @@ raw_data/
 *participant*.csv
 *prediction*.csv
 
+# Public aggregate figure-source tables
+!outputs/jama_vector_figures/data/
+!outputs/jama_vector_figures/data/*.csv
+
 # Local environments and caches
 .venv/
 .python_packages/

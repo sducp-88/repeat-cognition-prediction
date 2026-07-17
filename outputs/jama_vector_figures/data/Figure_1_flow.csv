@@ -1,0 +1,13 @@
+cohort,stage_order,stage_label,n,excluded_after_stage
+CHARLS,1,Age eligible in 2011,13466,2834.0
+CHARLS,2,2011 memory complete,10632,2273.0
+CHARLS,3,2013 index memory complete,8359,1095.0
+CHARLS,4,2015 outcome memory complete,7264,
+HRS,1,Age eligible in 2012,19866,1737.0
+HRS,2,2012 memory complete,18129,2542.0
+HRS,3,2014 index memory complete,15587,2469.0
+HRS,4,2016 outcome memory complete,13118,
+ELSA,1,Harmonized participants,21679,13465.0
+ELSA,2,Age ≥50 y and wave 7 index memory complete,8214,62.0
+ELSA,3,Also wave 6 previous memory complete,8152,1245.0
+ELSA,4,Also wave 8 outcome memory complete,6907,

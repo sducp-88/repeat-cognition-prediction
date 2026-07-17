@@ -1,0 +1,11 @@
+scenario_order,scenario,scenario_label,dataset_order,dataset,dataset_label,difference_candidate_minus_reference,ci_low,ci_high,marker,color_hex
+0,primary_20pt_age50_0.5sd,"Primary: 0.5-SD decline, age ≥50 y",0,CHARLS repeated 5-fold CV,CHARLS internal evaluation,0.0217089431913551,0.0164188075156407,0.0269997761292036,circle,#2F7E50
+0,primary_20pt_age50_0.5sd,"Primary: 0.5-SD decline, age ≥50 y",1,HRS external validation,HRS external evaluation,0.0359936781838343,0.0321918451735005,0.040040078537222,square,#1B69AA
+0,primary_20pt_age50_0.5sd,"Primary: 0.5-SD decline, age ≥50 y",2,ELSA locked confirmation,ELSA locked confirmation,0.0332195591321562,0.0278491786634006,0.0387896166016049,diamond,#BE4C2F
+1,age65_20pt_0.5sd,Age ≥65 y,0,CHARLS repeated 5-fold CV,CHARLS internal evaluation,0.0213385311150675,0.0113027864306172,0.0312083441451555,circle,#2F7E50
+1,age65_20pt_0.5sd,Age ≥65 y,1,HRS external validation,HRS external evaluation,0.0382184275459847,0.03241288888677,0.0441647600328882,square,#1B69AA
+2,decline_20pt_1sd_age50,1-SD decline,0,CHARLS repeated 5-fold CV,CHARLS internal evaluation,0.0179934393595554,0.0120507707795784,0.023754339223587,circle,#2F7E50
+2,decline_20pt_1sd_age50,1-SD decline,1,HRS external validation,HRS external evaluation,0.0325859899589738,0.0281220403724216,0.0369978792883131,square,#1B69AA
+3,hrs_no_dementia_ad_20pt_age50_0.5sd,Exclusion of reported dementia or Alzheimer disease,1,HRS external validation,HRS external evaluation,0.0357435920727923,0.0317568691238547,0.0400531713066727,square,#1B69AA
+4,score25_age50_0.5sd,25-point cognition score,0,CHARLS repeated 5-fold CV,CHARLS internal evaluation,0.0313165514105908,0.0244422041103784,0.0383582450845148,circle,#2F7E50
+4,score25_age50_0.5sd,25-point cognition score,1,HRS external validation,HRS external evaluation,0.0492023158919416,0.0440595702676018,0.0545547057343867,square,#1B69AA

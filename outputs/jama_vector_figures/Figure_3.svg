@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="518.4" height="520" preserveAspectRatio="xMinYMin meet" viewBox="0 0 518 520" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="518.4" height="520"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-520)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="19" y="487" style="font-family: Arial-Bold; font-size: 12px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,974) scale(1,-1)">A</text>
+			<text x="45" y="487" style="font-family: Arial-Bold; font-size: 9px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,974) scale(1,-1)">HRS calibration of M2</text>
+			<path d="M 45,300 L 45,455 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 45,300 L 235,300 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 45,300 L 45,297 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="40.4820556640625" y="289" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,578) scale(1,-1)">0.0</text>
+			<path d="M 89.705882,300 L 89.705882,297 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="85.18793801700369" y="289" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,578) scale(1,-1)">0.2</text>
+			<path d="M 134.411765,300 L 134.411765,297 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="129.89382036994488" y="289" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,578) scale(1,-1)">0.4</text>
+			<path d="M 179.117647,300 L 179.117647,297 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="174.59970272288604" y="289" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,578) scale(1,-1)">0.6</text>
+			<path d="M 223.823529,300 L 223.823529,297 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="219.30558507582722" y="289" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,578) scale(1,-1)">0.8</text>
+			<path d="M 42,300 L 45,300 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="29.26904296875" y="297.8" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,595) scale(1,-1)">0.0</text>
+			<path d="M 42,336.470588 L 45,336.470588 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="29.26904296875" y="334.27058823529416" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,668) scale(1,-1)">0.2</text>
+			<path d="M 42,372.941176 L 45,372.941176 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="29.26904296875" y="370.74117647058824" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,741) scale(1,-1)">0.4</text>
+			<path d="M 42,409.411765 L 45,409.411765 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="29.26904296875" y="407.2117647058824" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,814) scale(1,-1)">0.6</text>
+			<path d="M 42,445.882353 L 45,445.882353 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="29.26904296875" y="443.6823529411765" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,887) scale(1,-1)">0.8</text>
+			<text x="107.2772216796875" y="276" style="font-family: Arial; font-size: 7.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,552) scale(1,-1)">Mean predicted risk</text>
+			<text x="45" y="462" style="font-family: Arial; font-size: 7.2px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,924) scale(1,-1)">Observed risk</text>
+			<polyline points="45 300, 235 455" style="stroke: rgb(84%,86%,88%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd; stroke-dasharray: 3, 2;"/>
+			<polyline points="71.80637 309.0343, 93.793 320.0143, 109.9319 329.8825, 125.2811 342.9802, 139.5831 350.7537, 154.161 362.5011, 168.9951 371.5492, 185.124 390.4815, 204.0971 408.884, 233.3607 443.5456" style="stroke: rgb(10%,41%,66%); stroke-linecap: butt; stroke-width: 1.7; fill: None; fill-rule: evenodd;"/>
+			<circle cx="71.80637422400153" cy="309.0342539454806" r="2.3" style="stroke: rgb(10%,41%,66%); stroke-linecap: butt; stroke-width: 1; fill: rgb(10%,41%,66%); fill-rule: evenodd;"/>
+			<circle cx="93.792995262927" cy="320.01434720229554" r="2.3" style="stroke: rgb(10%,41%,66%); stroke-linecap: butt; stroke-width: 1; fill: rgb(10%,41%,66%); fill-rule: evenodd;"/>
+			<circle cx="109.93185004878758" cy="329.88253228120516" r="2.3" style="stroke: rgb(10%,41%,66%); stroke-linecap: butt; stroke-width: 1; fill: rgb(10%,41%,66%); fill-rule: evenodd;"/>
+			<circle cx="125.28111909099587" cy="342.98021268003765" r="2.3" style="stroke: rgb(10%,41%,66%); stroke-linecap: butt; stroke-width: 1; fill: rgb(10%,41%,66%); fill-rule: evenodd;"/>
+			<circle cx="139.58310075915614" cy="350.7537463654663" r="2.3" style="stroke: rgb(10%,41%,66%); stroke-linecap: butt; stroke-width: 1; fill: rgb(10%,41%,66%); fill-rule: evenodd;"/>
+			<circle cx="154.16104121809587" cy="362.5011225864392" r="2.3" style="stroke: rgb(10%,41%,66%); stroke-linecap: butt; stroke-width: 1; fill: rgb(10%,41%,66%); fill-rule: evenodd;"/>
+			<circle cx="168.99505082226932" cy="371.549169286035" r="2.3" style="stroke: rgb(10%,41%,66%); stroke-linecap: butt; stroke-width: 1; fill: rgb(10%,41%,66%); fill-rule: evenodd;"/>
+			<circle cx="185.12398633511296" cy="390.4815279770445" r="2.3" style="stroke: rgb(10%,41%,66%); stroke-linecap: butt; stroke-width: 1; fill: rgb(10%,41%,66%); fill-rule: evenodd;"/>
+			<circle cx="204.09709566382193" cy="408.884010573003" r="2.3" style="stroke: rgb(10%,41%,66%); stroke-linecap: butt; stroke-width: 1; fill: rgb(10%,41%,66%); fill-rule: evenodd;"/>
+			<circle cx="233.36070589525423" cy="443.54556467896083" r="2.3" style="stroke: rgb(10%,41%,66%); stroke-linecap: butt; stroke-width: 1; fill: rgb(10%,41%,66%); fill-rule: evenodd;"/>
+			<polyline points="57.11818 309.0343, 70.16727 319.5974, 81.61249 330.2995, 93.88164 343.2584, 106.542 350.8311, 120.7393 361.8499, 136.5624 372.106, 155.3582 390.0646, 179.4991 408.967, 220.3783 443.5751" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1.7; fill: None; fill-rule: evenodd; stroke-dasharray: 4, 2;"/>
+			<rect x="54.818184734160354" y="306.7342539454806" width="4.600000000000001" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<rect x="67.86727183413113" y="317.297381635581" width="4.599999999999994" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<rect x="79.31248848223863" y="327.99949784791966" width="4.599999999999994" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<rect x="91.58164451128582" y="340.95840175887287" width="4.599999999999994" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<rect x="104.24200583303879" y="348.5310559562743" width="4.599999999999994" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<rect x="118.43932491711615" y="359.5498923959828" width="4.599999999999994" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<rect x="134.26240692597662" y="369.80597215985625" width="4.599999999999994" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<rect x="153.058240965879" y="387.76456241033" width="4.599999999999994" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<rect x="177.19907049676212" y="406.66700143472025" width="4.599999999999994" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<rect x="218.07825314358442" y="441.27514347202293" width="4.599999999999994" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<polyline points="140 438, 160 438" style="stroke: rgb(10%,41%,66%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd;"/>
+			<circle cx="150" cy="438" r="1.8" style="stroke: rgb(10%,41%,66%); stroke-linecap: butt; stroke-width: 1; fill: rgb(10%,41%,66%); fill-rule: evenodd;"/>
+			<text x="165" y="435.6" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,871) scale(1,-1)">M2 original transport</text>
+			<polyline points="140 422, 160 422" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd; stroke-dasharray: 4, 2;"/>
+			<rect x="148.2" y="420.2" width="3.5999999999999943" height="3.6000000000000227" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<text x="165" y="419.6" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,839) scale(1,-1)">M2 recalibrated</text>
+			<text x="279" y="487" style="font-family: Arial-Bold; font-size: 12px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,974) scale(1,-1)">B</text>
+			<text x="305" y="487" style="font-family: Arial-Bold; font-size: 9px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,974) scale(1,-1)">ELSA calibration of M2</text>
+			<path d="M 305,300 L 305,455 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 305,300 L 495,300 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 305,300 L 305,297 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="300.4820556640625" y="289" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,578) scale(1,-1)">0.0</text>
+			<path d="M 349.705882,300 L 349.705882,297 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="345.18793801700366" y="289" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,578) scale(1,-1)">0.2</text>
+			<path d="M 394.411765,300 L 394.411765,297 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="389.8938203699449" y="289" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,578) scale(1,-1)">0.4</text>
+			<path d="M 439.117647,300 L 439.117647,297 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="434.59970272288604" y="289" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,578) scale(1,-1)">0.6</text>
+			<path d="M 483.823529,300 L 483.823529,297 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="479.30558507582725" y="289" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,578) scale(1,-1)">0.8</text>
+			<path d="M 302,300 L 305,300 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="289.26904296875" y="297.8" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,595) scale(1,-1)">0.0</text>
+			<path d="M 302,336.470588 L 305,336.470588 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="289.26904296875" y="334.27058823529416" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,668) scale(1,-1)">0.2</text>
+			<path d="M 302,372.941176 L 305,372.941176 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="289.26904296875" y="370.74117647058824" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,741) scale(1,-1)">0.4</text>
+			<path d="M 302,409.411765 L 305,409.411765 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="289.26904296875" y="407.2117647058824" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,814) scale(1,-1)">0.6</text>
+			<path d="M 302,445.882353 L 305,445.882353 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="289.26904296875" y="443.6823529411765" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,887) scale(1,-1)">0.8</text>
+			<text x="367.2772216796875" y="276" style="font-family: Arial; font-size: 7.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,552) scale(1,-1)">Mean predicted risk</text>
+			<text x="305" y="462" style="font-family: Arial; font-size: 7.2px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,924) scale(1,-1)">Observed risk</text>
+			<polyline points="305 300, 495 455" style="stroke: rgb(84%,86%,88%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd; stroke-dasharray: 3, 2;"/>
+			<polyline points="337.4296 315.0421, 365.6669 325.3341, 384.8583 333.5635, 401.3916 343.2791, 415.7443 348.2932, 430.004 356.2916, 444.7043 359.6408, 459.4557 371.8841, 475.471 385.7666, 497.664 414.7953" style="stroke: rgb(74%,29%,18%); stroke-linecap: butt; stroke-width: 1.7; fill: None; fill-rule: evenodd;"/>
+			<circle cx="337.42961979387997" cy="315.04213841831955" r="2.3" style="stroke: rgb(74%,29%,18%); stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,29%,18%); fill-rule: evenodd;"/>
+			<circle cx="365.6669477178442" cy="325.334127862433" r="2.3" style="stroke: rgb(74%,29%,18%); stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,29%,18%); fill-rule: evenodd;"/>
+			<circle cx="384.85827889885167" cy="333.56351236146634" r="2.3" style="stroke: rgb(74%,29%,18%); stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,29%,18%); fill-rule: evenodd;"/>
+			<circle cx="401.3915935145147" cy="343.27913509832297" r="2.3" style="stroke: rgb(74%,29%,18%); stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,29%,18%); fill-rule: evenodd;"/>
+			<circle cx="415.74429177522535" cy="348.29318123776284" r="2.3" style="stroke: rgb(74%,29%,18%); stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,29%,18%); fill-rule: evenodd;"/>
+			<circle cx="430.0040311780351" cy="356.2915601023018" r="2.3" style="stroke: rgb(74%,29%,18%); stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,29%,18%); fill-rule: evenodd;"/>
+			<circle cx="444.7043162018872" cy="359.6407593428109" r="2.3" style="stroke: rgb(74%,29%,18%); stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,29%,18%); fill-rule: evenodd;"/>
+			<circle cx="459.45574259659037" cy="371.8840579710145" r="2.3" style="stroke: rgb(74%,29%,18%); stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,29%,18%); fill-rule: evenodd;"/>
+			<circle cx="475.47098237076415" cy="385.76657870094493" r="2.3" style="stroke: rgb(74%,29%,18%); stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,29%,18%); fill-rule: evenodd;"/>
+			<circle cx="497.6640140178763" cy="414.79526687664935" r="2.3" style="stroke: rgb(74%,29%,18%); stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,29%,18%); fill-rule: evenodd;"/>
+			<polyline points="322.9894 315.0421, 336.4971 325.3341, 346.1502 333.5635, 355.067 343.2791, 363.4707 348.5571, 372.6363 355.4987, 383.2651 360.1686, 395.523 372.4126, 411.3445 385.7666, 441.9207 414.2675" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1.7; fill: None; fill-rule: evenodd; stroke-dasharray: 4, 2;"/>
+			<rect x="320.6894064841936" y="312.74213841831954" width="4.600000000000023" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<rect x="334.19709953949695" y="323.03412786243297" width="4.600000000000023" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<rect x="343.850185600443" y="331.2635123614663" width="4.600000000000023" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<rect x="352.76703898220984" y="340.97913509832296" width="4.600000000000023" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<rect x="361.1707454837913" y="346.2570784029965" width="4.600000000000023" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<rect x="370.3362626535749" y="353.19872122762143" width="4.600000000000023" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<rect x="380.965123416939" y="357.86855367327826" width="4.600000000000023" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<rect x="393.22303439737755" y="370.1126172208014" width="4.600000000000023" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<rect x="409.0444703304666" y="383.4665787009449" width="4.600000000000023" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<rect x="439.6206863659284" y="411.967472546182" width="4.600000000000023" height="4.600000000000023" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<polyline points="400 438, 420 438" style="stroke: rgb(74%,29%,18%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd;"/>
+			<circle cx="410" cy="438" r="1.8" style="stroke: rgb(74%,29%,18%); stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,29%,18%); fill-rule: evenodd;"/>
+			<text x="425" y="435.6" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,871) scale(1,-1)">M2 original transport</text>
+			<polyline points="400 422, 420 422" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd; stroke-dasharray: 4, 2;"/>
+			<rect x="408.2" y="420.2" width="3.6000000000000227" height="3.6000000000000227" style="stroke: rgb(54%,30%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,30%,60%); fill-rule: evenodd;"/>
+			<text x="425" y="419.6" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,839) scale(1,-1)">M2 recalibrated</text>
+			<text x="19" y="239" style="font-family: Arial-Bold; font-size: 12px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,478) scale(1,-1)">C</text>
+			<text x="45" y="239" style="font-family: Arial-Bold; font-size: 9px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,478) scale(1,-1)">HRS decision curve</text>
+			<path d="M 45,52 L 45,207 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 45,52 L 235,52 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 45,52 L 45,49 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="40.4820556640625" y="41" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,82) scale(1,-1)">0.1</text>
+			<path d="M 92.5,52 L 92.5,49 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="87.9820556640625" y="41" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,82) scale(1,-1)">0.2</text>
+			<path d="M 140,52 L 140,49 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="135.4820556640625" y="41" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,82) scale(1,-1)">0.3</text>
+			<path d="M 187.5,52 L 187.5,49 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="182.98205566406253" y="41" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,82) scale(1,-1)">0.4</text>
+			<path d="M 235,52 L 235,49 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="230.4820556640625" y="41" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,82) scale(1,-1)">0.5</text>
+			<path d="M 42,52 L 45,52 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="23.044921875" y="49.8" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,99) scale(1,-1)">-0.05</text>
+			<path d="M 42,74.142857 L 45,74.142857 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="29.26904296875" y="71.94285714285714" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,143) scale(1,-1)">0.0</text>
+			<path d="M 42,118.428571 L 45,118.428571 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="29.26904296875" y="116.22857142857144" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,232) scale(1,-1)">0.1</text>
+			<path d="M 42,162.714286 L 45,162.714286 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="29.26904296875" y="160.51428571428573" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,321) scale(1,-1)">0.2</text>
+			<path d="M 42,207 L 45,207 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="29.26904296875" y="204.8" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,409) scale(1,-1)">0.3</text>
+			<text x="116.240234375" y="28" style="font-family: Arial; font-size: 7.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,56) scale(1,-1)">Risk threshold</text>
+			<text x="45" y="214" style="font-family: Arial; font-size: 7.2px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,428) scale(1,-1)">Net benefit</text>
+			<polyline points="45 196.3185, 68.75 179.8578, 92.5 165.7493, 116.25 150.7544, 140 137.3503, 163.75 125.6728, 187.5 114.643, 211.25 105.8062, 235 99.53" style="stroke: rgb(40%,41%,43%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd; stroke-dasharray: 5, 2;"/>
+			<polyline points="45 197.2225, 68.75 183.2695, 92.5 169.9945, 116.25 156.471, 140 145.3658, 163.75 134.1932, 187.5 124.422, 211.25 116.6184, 235 109.3203" style="stroke: rgb(10%,41%,66%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd;"/>
+			<polyline points="45 194.8218, 68.75 175.8702, 92.5 154.5496, 116.25 130.3862, 140 102.7709, 163.75 70.90714" style="stroke: rgb(84%,86%,88%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd; stroke-dasharray: 2, 2;"/>
+			<polyline points="45 74.14286, 235 74.14286" style="stroke: rgb(61%,63%,65%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd; stroke-dasharray: 7, 2, 1, 2;"/>
+			<polyline points="140 190, 160 190" style="stroke: rgb(40%,41%,43%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd; stroke-dasharray: 5, 2;"/>
+			<text x="165" y="187.6" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,375) scale(1,-1)">M1 single assessment</text>
+			<polyline points="140 175, 160 175" style="stroke: rgb(10%,41%,66%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd;"/>
+			<text x="165" y="172.6" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,345) scale(1,-1)">M2 repeat assessment</text>
+			<polyline points="140 160, 160 160" style="stroke: rgb(84%,86%,88%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd; stroke-dasharray: 2, 2;"/>
+			<text x="165" y="157.6" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,315) scale(1,-1)">Treat all</text>
+			<polyline points="140 145, 160 145" style="stroke: rgb(61%,63%,65%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd; stroke-dasharray: 7, 2, 1, 2;"/>
+			<text x="165" y="142.6" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,285) scale(1,-1)">Treat none</text>
+			<text x="279" y="239" style="font-family: Arial-Bold; font-size: 12px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,478) scale(1,-1)">D</text>
+			<text x="305" y="239" style="font-family: Arial-Bold; font-size: 9px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,478) scale(1,-1)">ELSA decision curve</text>
+			<path d="M 305,52 L 305,207 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 305,52 L 495,52 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 305,52 L 305,49 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="300.4820556640625" y="41" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,82) scale(1,-1)">0.1</text>
+			<path d="M 352.5,52 L 352.5,49 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="347.9820556640625" y="41" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,82) scale(1,-1)">0.2</text>
+			<path d="M 400,52 L 400,49 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="395.4820556640625" y="41" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,82) scale(1,-1)">0.3</text>
+			<path d="M 447.5,52 L 447.5,49 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="442.9820556640625" y="41" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,82) scale(1,-1)">0.4</text>
+			<path d="M 495,52 L 495,49 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="490.4820556640625" y="41" style="font-family: Arial; font-size: 6.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,82) scale(1,-1)">0.5</text>
+			<path d="M 302,52 L 305,52 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="283.044921875" y="49.8" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,99) scale(1,-1)">-0.05</text>
+			<path d="M 302,74.142857 L 305,74.142857 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="289.26904296875" y="71.94285714285714" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,143) scale(1,-1)">0.0</text>
+			<path d="M 302,118.428571 L 305,118.428571 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="289.26904296875" y="116.22857142857144" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,232) scale(1,-1)">0.1</text>
+			<path d="M 302,162.714286 L 305,162.714286 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="289.26904296875" y="160.51428571428573" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,321) scale(1,-1)">0.2</text>
+			<path d="M 302,207 L 305,207 Z" style="stroke: rgb(12%,13%,14%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="289.26904296875" y="204.8" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,409) scale(1,-1)">0.3</text>
+			<text x="376.240234375" y="28" style="font-family: Arial; font-size: 7.5px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,56) scale(1,-1)">Risk threshold</text>
+			<text x="305" y="214" style="font-family: Arial; font-size: 7.2px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,428) scale(1,-1)">Net benefit</text>
+			<polyline points="305 174.7997, 316.875 165.6105, 328.75 156.4994, 340.625 147.079, 352.5 137.5707, 364.375 129.1285, 376.25 122.188, 388.125 114.3156, 400 108.3265, 411.875 101.7536, 423.75 96.61345, 435.625 92.89071, 447.5 89.63783, 459.375 87.03877, 471.25 85.29341, 483.125 83.39405" style="stroke: rgb(40%,41%,43%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd; stroke-dasharray: 5, 2;"/>
+			<polyline points="305 175.4052, 316.875 167.1585, 328.75 157.8761, 340.625 150.6366, 352.5 142.6039, 364.375 134.9631, 376.25 127.1891, 388.125 120.316, 400 114.0146, 411.875 108.5738, 423.75 103.9771, 435.625 100.2642, 447.5 95.81445, 459.375 92.6978, 471.25 90.06723, 483.125 86.82279" style="stroke: rgb(74%,29%,18%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd;"/>
+			<polyline points="305 174.4007, 316.875 164.6122, 328.75 154.2478, 340.625 143.2553, 352.5 131.5758, 364.375 119.1428, 376.25 105.8808, 388.125 91.70432, 400 76.51519, 411.875 60.20094" style="stroke: rgb(84%,86%,88%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd; stroke-dasharray: 2, 2;"/>
+			<polyline points="305 74.14286, 495 74.14286" style="stroke: rgb(61%,63%,65%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd; stroke-dasharray: 7, 2, 1, 2;"/>
+			<polyline points="400 190, 420 190" style="stroke: rgb(40%,41%,43%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd; stroke-dasharray: 5, 2;"/>
+			<text x="425" y="187.6" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,375) scale(1,-1)">M1 single assessment</text>
+			<polyline points="400 175, 420 175" style="stroke: rgb(74%,29%,18%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd;"/>
+			<text x="425" y="172.6" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,345) scale(1,-1)">M2 repeat assessment</text>
+			<polyline points="400 160, 420 160" style="stroke: rgb(84%,86%,88%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd; stroke-dasharray: 2, 2;"/>
+			<text x="425" y="157.6" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,315) scale(1,-1)">Treat all</text>
+			<polyline points="400 145, 420 145" style="stroke: rgb(61%,63%,65%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd; stroke-dasharray: 7, 2, 1, 2;"/>
+			<text x="425" y="142.6" style="font-family: Arial; font-size: 7px;fill: rgb(12%,13%,14%); stroke:none;" transform="translate(0,285) scale(1,-1)">Treat none</text>
+		</g>
+	</g>
+</svg>

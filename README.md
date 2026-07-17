@@ -16,7 +16,7 @@ The machine-learning analyses are secondary robustness comparisons. The main sci
 
 - Numbered Python files in the repository root: analysis and reporting scripts in execution order.
 - `model_artifacts/`: frozen CHARLS M1 and M2 pipelines, metadata, and SHA-256 hashes.
-- `outputs/`: aggregate tables and publication figures only.
+- `outputs/`: aggregate tables, submission-ready vector figures, editable SVG artwork, and figure-source data only.
 - `docs/`: statistical analysis plan, reproducibility guide, and data-governance statement.
 
 No individual-level CHARLS, HRS, or ELSA data or participant-level predictions are included.
@@ -50,6 +50,8 @@ python 23_repeat_cognition_sensitivity_recalibration.py --data-dir data_link --o
 ```
 
 Because later scripts import earlier numbered scripts, keep the numbered files together if relocating them.
+
+Run `python 40_jama_vector_figures.py` after the aggregate analysis outputs are available to regenerate the vector PDF/SVG figures and their plot-specific aggregate CSV files. The workbook at `outputs/jama_vector_figures/Figure_Source_Data.xlsx` is supplied for independent editing and redrawing.
 
 ## Data Governance
 
