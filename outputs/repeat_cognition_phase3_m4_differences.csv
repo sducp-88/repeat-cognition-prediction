@@ -1,0 +1,13 @@
+﻿metric,difference_candidate_minus_reference,ci_low,ci_high,bootstrap_replicates_used,dataset,reference_model,candidate_model
+auroc,0.00332353033358046,0.0007914049309049987,0.006048452529380751,1000,CHARLS nested 5-fold CV,M2_repeat_assessment,M4_elastic_net
+auprc,0.005238963872799096,0.001549207963261401,0.009142993232436282,1000,CHARLS nested 5-fold CV,M2_repeat_assessment,M4_elastic_net
+brier,-0.0013261984205263644,-0.0022986495969615486,-0.00044875966106474544,1000,CHARLS nested 5-fold CV,M2_repeat_assessment,M4_elastic_net
+auroc,0.003912098133203479,-6.707441598827744e-05,0.007966901115540187,1000,CHARLS nested 5-fold CV,M2_repeat_assessment,M4_gradient_boosting
+auprc,-0.003365575383828423,-0.009545723916537106,0.0031488439744086906,1000,CHARLS nested 5-fold CV,M2_repeat_assessment,M4_gradient_boosting
+brier,-0.0010714367251354329,-0.002492261825561364,0.00027465732681924694,1000,CHARLS nested 5-fold CV,M2_repeat_assessment,M4_gradient_boosting
+auroc,0.001464990072772232,-0.0013025192830013687,0.004044539026126589,1000,HRS external validation,M2_repeat_assessment,M4_elastic_net
+auprc,-0.004800942881818093,-0.010387604876805106,0.0010893882698727003,1000,HRS external validation,M2_repeat_assessment,M4_elastic_net
+brier,0.0052513761541543025,0.004207088602167017,0.0062950752637714455,1000,HRS external validation,M2_repeat_assessment,M4_elastic_net
+auroc,-0.016230097696939172,-0.02088733318886782,-0.01182940921777734,1000,HRS external validation,M2_repeat_assessment,M4_gradient_boosting
+auprc,-0.04110755982754999,-0.0503253874690775,-0.03265572904711937,1000,HRS external validation,M2_repeat_assessment,M4_gradient_boosting
+brier,0.009241353730738894,0.007487588131313405,0.01093996634574704,1000,HRS external validation,M2_repeat_assessment,M4_gradient_boosting

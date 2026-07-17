@@ -1,0 +1,13 @@
+﻿dataset,model,selected_fraction,selected_n,true_positive_n,false_positive_n,sensitivity,positive_predictive_value,calibration
+ELSA confirmatory validation,M1_single_assessment,0.1,691,404,287,0.19256434699714015,0.5846599131693199,none_original_transport
+ELSA confirmatory validation,M1_single_assessment,0.2,1382,699,683,0.33317445185891326,0.5057887120115774,none_original_transport
+ELSA confirmatory validation,M1_single_assessment,0.3,2073,966,1107,0.4604385128693994,0.46599131693198265,none_original_transport
+ELSA confirmatory validation,M1_single_assessment,0.1,691,406,285,0.19351763584366063,0.5875542691751086,cv_intercept_slope
+ELSA confirmatory validation,M1_single_assessment,0.2,1382,699,683,0.33317445185891326,0.5057887120115774,cv_intercept_slope
+ELSA confirmatory validation,M1_single_assessment,0.3,2073,965,1108,0.4599618684461392,0.4655089242643512,cv_intercept_slope
+ELSA confirmatory validation,M2_repeat_assessment,0.1,691,435,256,0.20734032411820782,0.6295224312590448,none_original_transport
+ELSA confirmatory validation,M2_repeat_assessment,0.2,1382,760,622,0.3622497616777884,0.5499276410998553,none_original_transport
+ELSA confirmatory validation,M2_repeat_assessment,0.3,2073,1033,1040,0.49237368922783603,0.4983116256632899,none_original_transport
+ELSA confirmatory validation,M2_repeat_assessment,0.1,691,433,258,0.2063870352716873,0.6266280752532561,cv_intercept_slope
+ELSA confirmatory validation,M2_repeat_assessment,0.2,1382,758,624,0.36129647283126787,0.548480463096961,cv_intercept_slope
+ELSA confirmatory validation,M2_repeat_assessment,0.3,2073,1032,1041,0.4918970448045758,0.49782923299565845,cv_intercept_slope

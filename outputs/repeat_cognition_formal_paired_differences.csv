@@ -1,0 +1,10 @@
+﻿metric,difference_candidate_minus_reference,ci_low,ci_high,bootstrap_replicates_used,dataset,calibration,reference_model,candidate_model
+auroc,0.02170894319135519,0.016384194888471204,0.02731833748334518,1000,CHARLS repeated 5-fold CV,none_internal_cv,M1_single_assessment,M2_repeat_assessment
+auprc,0.02870090288332583,0.020605385105450406,0.03699887616932541,1000,CHARLS repeated 5-fold CV,none_internal_cv,M1_single_assessment,M2_repeat_assessment
+brier,-0.0077480815028669325,-0.009629586474762005,-0.005838946659960102,1000,CHARLS repeated 5-fold CV,none_internal_cv,M1_single_assessment,M2_repeat_assessment
+auroc,0.035993678183834366,0.031792579495217535,0.04006380574446734,1000,HRS external validation,none_original_transport,M1_single_assessment,M2_repeat_assessment
+auprc,0.051479496927891444,0.04493781171527562,0.05788981221661789,1000,HRS external validation,none_original_transport,M1_single_assessment,M2_repeat_assessment
+brier,-0.0230434154987183,-0.024454151698779496,-0.021578346686540607,1000,HRS external validation,none_original_transport,M1_single_assessment,M2_repeat_assessment
+auroc,0.03595232812404825,0.031801271856484355,0.04022281816332046,1000,HRS external validation,cv_intercept_slope,M1_single_assessment,M2_repeat_assessment
+auprc,0.05129581235962233,0.04438547055138338,0.05785270570029069,1000,HRS external validation,cv_intercept_slope,M1_single_assessment,M2_repeat_assessment
+brier,-0.011907976663713155,-0.013240799140470536,-0.010584102190619699,1000,HRS external validation,cv_intercept_slope,M1_single_assessment,M2_repeat_assessment

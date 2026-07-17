@@ -1,0 +1,61 @@
+﻿dataset,model,threshold,net_benefit,treat_all_net_benefit,treat_none_net_benefit
+CHARLS repeated 5-fold CV,M1_single_assessment,0.05,0.36568223974031994,0.3655808022258289,0.0
+CHARLS repeated 5-fold CV,M1_single_assessment,0.1,0.33093184043073914,0.3303352912383749,0.0
+CHARLS repeated 5-fold CV,M1_single_assessment,0.15,0.295550984711065,0.2909432495465146,0.0
+CHARLS repeated 5-fold CV,M1_single_assessment,0.2,0.2618047907488987,0.24662720264317178,0.0
+CHARLS repeated 5-fold CV,M1_single_assessment,0.25,0.2265051395007342,0.1964023494860499,0.0
+CHARLS repeated 5-fold CV,M1_single_assessment,0.3,0.19092196349905602,0.139002517306482,0.0
+CHARLS repeated 5-fold CV,M1_single_assessment,0.35,0.16722085733649608,0.07277194171467288,0.0
+CHARLS repeated 5-fold CV,M1_single_assessment,0.4,0.13945484581497794,-0.004497063142437696,0.0
+CHARLS repeated 5-fold CV,M1_single_assessment,0.45,0.1161268522226672,-0.0958149779735683,0.0
+CHARLS repeated 5-fold CV,M1_single_assessment,0.5,0.08975770925110133,-0.20539647577092518,0.0
+CHARLS repeated 5-fold CV,M1_single_assessment,0.55,0.06643110621634848,-0.33932941752325035,0.0
+CHARLS repeated 5-fold CV,M1_single_assessment,0.6,0.054928414096916275,-0.506745594713657,0.0
+CHARLS repeated 5-fold CV,M2_repeat_assessment,0.05,0.36609523533503363,0.3655808022258289,0.0
+CHARLS repeated 5-fold CV,M2_repeat_assessment,0.1,0.33183431228585414,0.3303352912383749,0.0
+CHARLS repeated 5-fold CV,M2_repeat_assessment,0.15,0.3000453485358901,0.2909432495465146,0.0
+CHARLS repeated 5-fold CV,M2_repeat_assessment,0.2,0.26383535242290745,0.24662720264317178,0.0
+CHARLS repeated 5-fold CV,M2_repeat_assessment,0.25,0.23302129221732745,0.1964023494860499,0.0
+CHARLS repeated 5-fold CV,M2_repeat_assessment,0.3,0.20327249842668343,0.139002517306482,0.0
+CHARLS repeated 5-fold CV,M2_repeat_assessment,0.35,0.17727041680786174,0.07277194171467288,0.0
+CHARLS repeated 5-fold CV,M2_repeat_assessment,0.4,0.15037628487518356,-0.004497063142437696,0.0
+CHARLS repeated 5-fold CV,M2_repeat_assessment,0.45,0.12633910692831396,-0.0958149779735683,0.0
+CHARLS repeated 5-fold CV,M2_repeat_assessment,0.5,0.10834251101321586,-0.20539647577092518,0.0
+CHARLS repeated 5-fold CV,M2_repeat_assessment,0.55,0.09053781204111598,-0.33932941752325035,0.0
+CHARLS repeated 5-fold CV,M2_repeat_assessment,0.6,0.0673871145374449,-0.506745594713657,0.0
+HRS external validation,M1_single_assessment,0.05,0.310850498712095,0.31079031623883613,0.0
+HRS external validation,M1_single_assessment,0.1,0.2737714082431265,0.2725008893632159,0.0
+HRS external validation,M1_single_assessment,0.15,0.2338367577553967,0.22970682403164036,0.0
+HRS external validation,M1_single_assessment,0.2,0.19444656197591098,0.18156350053361792,0.0
+HRS external validation,M1_single_assessment,0.25,0.15507953448188241,0.12700106723585913,0.0
+HRS external validation,M1_single_assessment,0.3,0.11708012981072893,0.06464400060984904,0.0
+HRS external validation,M1_single_assessment,0.35,0.0823882627511229,-0.00730646088170106,0.0
+HRS external validation,M1_single_assessment,0.4,0.04850841083498497,-0.09124866595517617,0.0
+HRS external validation,M1_single_assessment,0.45,0.020471524206849723,-0.19045309013291928,0.0
+HRS external validation,M1_single_assessment,0.5,-0.0016008537886872953,-0.3094983991462113,0.0
+HRS external validation,M1_single_assessment,0.55,-0.018227710863783497,-0.4549982212735683,0.0
+HRS external validation,M1_single_assessment,0.6,-0.03220765360573269,-0.6368729989327646,0.0
+HRS external validation,M2_repeat_assessment,0.05,0.31101900963722007,0.31079031623883613,0.0
+HRS external validation,M2_repeat_assessment,0.1,0.2749656959902424,0.2725008893632159,0.0
+HRS external validation,M2_repeat_assessment,0.15,0.23842856246020283,0.22970682403164036,0.0
+HRS external validation,M2_repeat_assessment,0.2,0.20388016465924685,0.18156350053361792,0.0
+HRS external validation,M2_repeat_assessment,0.25,0.17080855821517507,0.12700106723585913,0.0
+HRS external validation,M2_repeat_assessment,0.3,0.1416156644087731,0.06464400060984904,0.0
+HRS external validation,M2_repeat_assessment,0.35,0.11153201121184045,-0.00730646088170106,0.0
+HRS external validation,M2_repeat_assessment,0.4,0.08680184987548914,-0.09124866595517617,0.0
+HRS external validation,M2_repeat_assessment,0.45,0.06528157008413146,-0.19045309013291928,0.0
+HRS external validation,M2_repeat_assessment,0.5,0.04665345327031559,-0.3094983991462113,0.0
+HRS external validation,M2_repeat_assessment,0.55,0.03372804119869216,-0.4549982212735683,0.0
+HRS external validation,M2_repeat_assessment,0.6,0.024698887025461136,-0.6368729989327646,0.0
+HRS external validation,M2_recalibrated,0.05,0.31166496818353245,0.31079031623883613,0.0
+HRS external validation,M2_recalibrated,0.1,0.27792176991750095,0.2725008893632159,0.0
+HRS external validation,M2_recalibrated,0.15,0.24641489466651118,0.22970682403164036,0.0
+HRS external validation,M2_recalibrated,0.2,0.21643924378716267,0.18156350053361792,0.0
+HRS external validation,M2_recalibrated,0.25,0.18590232250851246,0.12700106723585913,0.0
+HRS external validation,M2_recalibrated,0.3,0.1608259098730207,0.06464400060984904,0.0
+HRS external validation,M2_recalibrated,0.35,0.135597593441777,-0.00730646088170106,0.0
+HRS external validation,M2_recalibrated,0.4,0.11353356710880723,-0.09124866595517617,0.0
+HRS external validation,M2_recalibrated,0.45,0.0959126252616114,-0.19045309013291928,0.0
+HRS external validation,M2_recalibrated,0.5,0.07943284037200793,-0.3094983991462113,0.0
+HRS external validation,M2_recalibrated,0.55,0.06240788738120645,-0.4549982212735683,0.0
+HRS external validation,M2_recalibrated,0.6,0.04775880469583776,-0.6368729989327646,0.0

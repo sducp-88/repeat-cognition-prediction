@@ -1,0 +1,31 @@
+﻿metric,difference_candidate_minus_reference,ci_low,ci_high,bootstrap_replicates_used,scenario,dataset,reference_model,candidate_model
+auroc,0.02170894319135519,0.016418807515640767,0.026999776129203627,1000,primary_20pt_age50_0.5sd,CHARLS repeated 5-fold CV,M1_single_assessment,M2_repeat_assessment
+auprc,0.02870090288332583,0.02106906910616841,0.036042358433344475,1000,primary_20pt_age50_0.5sd,CHARLS repeated 5-fold CV,M1_single_assessment,M2_repeat_assessment
+brier,-0.0077480815028669325,-0.009597242236429557,-0.005914047142159895,1000,primary_20pt_age50_0.5sd,CHARLS repeated 5-fold CV,M1_single_assessment,M2_repeat_assessment
+auroc,0.035993678183834366,0.03219184517350056,0.04004007853722202,1000,primary_20pt_age50_0.5sd,HRS external validation,M1_single_assessment,M2_repeat_assessment
+auprc,0.051479496927891444,0.04474497954538206,0.05779566157209757,1000,primary_20pt_age50_0.5sd,HRS external validation,M1_single_assessment,M2_repeat_assessment
+brier,-0.0230434154987183,-0.0244555038982568,-0.021695289975317385,1000,primary_20pt_age50_0.5sd,HRS external validation,M1_single_assessment,M2_repeat_assessment
+auroc,0.02133853111506756,0.01130278643061729,0.03120834414515558,1000,age65_20pt_0.5sd,CHARLS repeated 5-fold CV,M1_single_assessment,M2_repeat_assessment
+auprc,0.024756721676716165,0.011985767765593217,0.03716254341081975,1000,age65_20pt_0.5sd,CHARLS repeated 5-fold CV,M1_single_assessment,M2_repeat_assessment
+brier,-0.008091267630744942,-0.011930701140445716,-0.004335861980366976,1000,age65_20pt_0.5sd,CHARLS repeated 5-fold CV,M1_single_assessment,M2_repeat_assessment
+auroc,0.0382184275459847,0.032412888886770054,0.044164760032888294,1000,age65_20pt_0.5sd,HRS external validation,M1_single_assessment,M2_repeat_assessment
+auprc,0.05328215419482141,0.04425342924967834,0.0615951314338381,1000,age65_20pt_0.5sd,HRS external validation,M1_single_assessment,M2_repeat_assessment
+brier,-0.029135165303312116,-0.031226753143377313,-0.026968740427900498,1000,age65_20pt_0.5sd,HRS external validation,M1_single_assessment,M2_repeat_assessment
+auroc,0.01799343935955544,0.012050770779578465,0.023754339223587054,1000,decline_20pt_1sd_age50,CHARLS repeated 5-fold CV,M1_single_assessment,M2_repeat_assessment
+auprc,0.03896064190754217,0.027233889063251106,0.050319410955412806,1000,decline_20pt_1sd_age50,CHARLS repeated 5-fold CV,M1_single_assessment,M2_repeat_assessment
+brier,-0.004733280536927287,-0.00611795253151258,-0.003369261229491684,1000,decline_20pt_1sd_age50,CHARLS repeated 5-fold CV,M1_single_assessment,M2_repeat_assessment
+auroc,0.03258598995897388,0.02812204037242167,0.036997879288313135,1000,decline_20pt_1sd_age50,HRS external validation,M1_single_assessment,M2_repeat_assessment
+auprc,0.06546191767770976,0.0556874906913096,0.07491637922441015,1000,decline_20pt_1sd_age50,HRS external validation,M1_single_assessment,M2_repeat_assessment
+brier,-0.014571894326975532,-0.015548563058130224,-0.013514801098622053,1000,decline_20pt_1sd_age50,HRS external validation,M1_single_assessment,M2_repeat_assessment
+auroc,0.02170894319135519,0.0160508961908677,0.027322348609740126,1000,hrs_no_dementia_ad_20pt_age50_0.5sd,CHARLS repeated 5-fold CV,M1_single_assessment,M2_repeat_assessment
+auprc,0.02870090288332583,0.02104383407617396,0.03647717793740837,1000,hrs_no_dementia_ad_20pt_age50_0.5sd,CHARLS repeated 5-fold CV,M1_single_assessment,M2_repeat_assessment
+brier,-0.0077480815028669325,-0.009717867889335593,-0.0058551037876595135,1000,hrs_no_dementia_ad_20pt_age50_0.5sd,CHARLS repeated 5-fold CV,M1_single_assessment,M2_repeat_assessment
+auroc,0.03574359207279232,0.03175686912385475,0.040053171306672755,1000,hrs_no_dementia_ad_20pt_age50_0.5sd,HRS external validation,M1_single_assessment,M2_repeat_assessment
+auprc,0.051396448717506926,0.0441806713346727,0.058056165363526174,1000,hrs_no_dementia_ad_20pt_age50_0.5sd,HRS external validation,M1_single_assessment,M2_repeat_assessment
+brier,-0.023180764351602184,-0.024633866804242396,-0.02179618340485599,1000,hrs_no_dementia_ad_20pt_age50_0.5sd,HRS external validation,M1_single_assessment,M2_repeat_assessment
+auroc,0.031316551410590865,0.024442204110378462,0.038358245084514866,1000,score25_age50_0.5sd,CHARLS repeated 5-fold CV,M1_single_assessment,M2_repeat_assessment
+auprc,0.04166895347453181,0.029266223065421725,0.053083654487667144,1000,score25_age50_0.5sd,CHARLS repeated 5-fold CV,M1_single_assessment,M2_repeat_assessment
+brier,-0.009071725311145556,-0.01106454190573147,-0.007027315959109687,1000,score25_age50_0.5sd,CHARLS repeated 5-fold CV,M1_single_assessment,M2_repeat_assessment
+auroc,0.049202315891941684,0.04405957026760188,0.0545547057343867,1000,score25_age50_0.5sd,HRS external validation,M1_single_assessment,M2_repeat_assessment
+auprc,0.07417594095560293,0.06635140940445647,0.0830888116018536,1000,score25_age50_0.5sd,HRS external validation,M1_single_assessment,M2_repeat_assessment
+brier,-0.016343111111537995,-0.017704896073356725,-0.015092378975879334,1000,score25_age50_0.5sd,HRS external validation,M1_single_assessment,M2_repeat_assessment

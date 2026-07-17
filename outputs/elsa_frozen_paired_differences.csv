@@ -1,0 +1,4 @@
+﻿metric,difference_candidate_minus_reference,ci_low,ci_high,bootstrap_replicates_used,dataset,calibration,reference_model,candidate_model
+auroc,0.03321955913215624,0.027849178663400663,0.038789616601604904,1000,ELSA confirmatory validation,none_original_transport,M1_single_assessment,M2_repeat_assessment
+auprc,0.0371342305149438,0.027264361937256718,0.047161960955322775,1000,ELSA confirmatory validation,none_original_transport,M1_single_assessment,M2_repeat_assessment
+brier,-0.04484147665985258,-0.047303029939500175,-0.04247521886704007,1000,ELSA confirmatory validation,none_original_transport,M1_single_assessment,M2_repeat_assessment

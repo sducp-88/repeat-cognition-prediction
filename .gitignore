@@ -1,0 +1,27 @@
+# Restricted cohort data
+data_link/
+data/
+raw_data/
+*.dta
+*.sav
+*.sas7bdat
+*.por
+
+# Person-level or intermediate analysis data
+*analysis_dataset*.csv
+*analysis_dataset*.csv.gz
+*participant*.csv
+*prediction*.csv
+
+# Local environments and caches
+.venv/
+.python_packages/
+.vendor/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local system files
+.DS_Store
+Thumbs.db
+desktop.ini

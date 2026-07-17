@@ -1,0 +1,7 @@
+﻿metric,difference_candidate_minus_reference,ci_low,ci_high,bootstrap_replicates_used,dataset,reference_model,candidate_model
+auroc,0.021611430762216388,0.01598589400647613,0.026744283349121722,1000,CHARLS repeated 5-fold CV,M1_single_assessment,M2_repeat_assessment
+auprc,0.028886932107893726,0.02090931026562797,0.03661050675316267,1000,CHARLS repeated 5-fold CV,M1_single_assessment,M2_repeat_assessment
+brier,-0.007738839346638798,-0.009458029248222618,-0.005829324817345526,1000,CHARLS repeated 5-fold CV,M1_single_assessment,M2_repeat_assessment
+auroc,0.03620319310445952,0.03223816390831488,0.040312935684671224,1000,HRS external validation,M1_single_assessment,M2_repeat_assessment
+auprc,0.051739499793350574,0.04531467024699927,0.05797895279052834,1000,HRS external validation,M1_single_assessment,M2_repeat_assessment
+brier,-0.022308487312737713,-0.023689589581112874,-0.020815500942420007,1000,HRS external validation,M1_single_assessment,M2_repeat_assessment

@@ -1,0 +1,10 @@
+﻿wave,raw_file,raw_rows,raw_ids_not_in_harmonized,raw_variable,harmonized_variable,both_nonmissing_n,exact_match_n,mismatch_n
+6,wave_6_elsa_data_eul.dta,10601,2,askpx,r6proxy,10599,10599,0
+6,wave_6_elsa_data_eul.dta,10601,2,cflisen,r6imrc,9971,9971,0
+6,wave_6_elsa_data_eul.dta,10601,2,cflisd,r6dlrc,9971,9971,0
+7,wave_7_elsa_data_eul.dta,9670,3,askpx,r7proxy,9665,9665,0
+7,wave_7_elsa_data_eul.dta,9670,3,cflisen,r7imrc,9039,9039,0
+7,wave_7_elsa_data_eul.dta,9670,3,cflisd,r7dlrc,9057,9057,0
+8,wave_8_elsa_data_eul_v2.dta,8445,0,askpx,r8proxy,8445,8445,0
+8,wave_8_elsa_data_eul_v2.dta,8445,0,cflisen,r8imrc,7921,7921,0
+8,wave_8_elsa_data_eul_v2.dta,8445,0,cflisd,r8dlrc,7973,7973,0

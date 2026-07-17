@@ -1,0 +1,19 @@
+﻿dataset,model,selected_fraction,selected_n,true_positive_n,false_positive_n,sensitivity,positive_predictive_value,scenario,calibration
+HRS external validation,M1_single_assessment,0.1,1312,955,357,0.21086332523735923,0.7278963414634146,primary_20pt_age50_0.5sd,none_original_transport
+HRS external validation,M1_single_assessment,0.2,2624,1683,941,0.37160521086332526,0.6413871951219512,primary_20pt_age50_0.5sd,none_original_transport
+HRS external validation,M1_single_assessment,0.3,3936,2277,1659,0.5027599911680283,0.5785060975609756,primary_20pt_age50_0.5sd,none_original_transport
+HRS external validation,M1_single_assessment,0.1,1312,952,360,0.21020092735703247,0.725609756097561,primary_20pt_age50_0.5sd,cv_intercept_only
+HRS external validation,M1_single_assessment,0.2,2624,1686,938,0.372267608743652,0.6425304878048781,primary_20pt_age50_0.5sd,cv_intercept_only
+HRS external validation,M1_single_assessment,0.3,3936,2277,1659,0.5027599911680283,0.5785060975609756,primary_20pt_age50_0.5sd,cv_intercept_only
+HRS external validation,M1_single_assessment,0.1,1312,962,350,0.21240892029145506,0.7332317073170732,primary_20pt_age50_0.5sd,cv_intercept_slope
+HRS external validation,M1_single_assessment,0.2,2624,1687,937,0.37248840803709427,0.6429115853658537,primary_20pt_age50_0.5sd,cv_intercept_slope
+HRS external validation,M1_single_assessment,0.3,3936,2276,1660,0.502539191874586,0.5782520325203252,primary_20pt_age50_0.5sd,cv_intercept_slope
+HRS external validation,M2_repeat_assessment,0.1,1312,1032,280,0.22786487083241333,0.7865853658536586,primary_20pt_age50_0.5sd,none_original_transport
+HRS external validation,M2_repeat_assessment,0.2,2624,1816,808,0.40097151689114596,0.6920731707317073,primary_20pt_age50_0.5sd,none_original_transport
+HRS external validation,M2_repeat_assessment,0.3,3936,2467,1469,0.5447118569220578,0.6267784552845529,primary_20pt_age50_0.5sd,none_original_transport
+HRS external validation,M2_repeat_assessment,0.1,1312,1033,279,0.2280856701258556,0.7873475609756098,primary_20pt_age50_0.5sd,cv_intercept_only
+HRS external validation,M2_repeat_assessment,0.2,2624,1815,809,0.4007507175977037,0.6916920731707317,primary_20pt_age50_0.5sd,cv_intercept_only
+HRS external validation,M2_repeat_assessment,0.3,3936,2467,1469,0.5447118569220578,0.6267784552845529,primary_20pt_age50_0.5sd,cv_intercept_only
+HRS external validation,M2_repeat_assessment,0.1,1312,1033,279,0.2280856701258556,0.7873475609756098,primary_20pt_age50_0.5sd,cv_intercept_slope
+HRS external validation,M2_repeat_assessment,0.2,2624,1817,807,0.4011923161845882,0.692454268292683,primary_20pt_age50_0.5sd,cv_intercept_slope
+HRS external validation,M2_repeat_assessment,0.3,3936,2465,1471,0.5442702583351733,0.626270325203252,primary_20pt_age50_0.5sd,cv_intercept_slope

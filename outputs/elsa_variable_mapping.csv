@@ -1,0 +1,11 @@
+﻿construct,elsa_variables,locked_rule
+Identifier,idauniq,"Link wave 6, 7, and 8 records"
+Interview status,r6iwstat/r7iwstat/r8iwstat,Require 1: respondent alive
+Proxy status,r6proxy/r7proxy/r8proxy,Require 0: direct interview
+Immediate recall,r6imrc/r7imrc/r8imrc,Require observed value 0-10
+Delayed recall,r6dlrc/r7dlrc/r8dlrc,Require observed value 0-10
+Memory score,immediate + delayed recall,"Complete sum, range 0-20"
+Age,r6agey and r7agey,Wave 6 eligibility; wave 7 model predictor
+Sex,ragender,"1 man, 2 woman; derive female indicator"
+Education,raeducl,"1 low, 2 middle, 3 high; other codes missing"
+Primary outcome,wave 8 score - wave 7 score,Decline <= -0.5 wave 7 SD

@@ -1,0 +1,63 @@
+{
+  "freeze_date": "2026-07-16",
+  "created_utc": "2026-07-16T06:35:20+00:00",
+  "development_cohort": "CHARLS",
+  "development_waves": [
+    2011,
+    2013,
+    2015
+  ],
+  "minimum_baseline_age": 50,
+  "primary_score": "immediate recall 0-10 plus delayed recall 0-10",
+  "primary_outcome": "outcome minus index score <= -0.5 * cohort index-score SD",
+  "charls_index_score_sd": 3.3913221189583846,
+  "development_n": 7264,
+  "development_events": 2886,
+  "software": {
+    "python": "3.12.13",
+    "numpy": "2.5.1",
+    "pandas": "3.0.1",
+    "scikit_learn": "1.9.0",
+    "joblib": "1.5.3"
+  },
+  "models": {
+    "M1_single_assessment": {
+      "features_in_order": [
+        "age",
+        "female",
+        "education_level",
+        "index_cognition"
+      ],
+      "artifact": "model_artifacts/m1_single_assessment_charls_frozen_2026-07-16.joblib",
+      "artifact_sha256": "161fb2d50d43f545eb4dc2317f72162cb43c450724578654274527ae3830a1a1",
+      "round_trip_verification": {
+        "hrs_n": 13118,
+        "hrs_events": 4529,
+        "auroc": 0.7385025946680506,
+        "auprc": 0.6013973034311989,
+        "brier": 0.21548846048820797,
+        "predictions_bitwise_identical_after_reload": true
+      }
+    },
+    "M2_repeat_assessment": {
+      "features_in_order": [
+        "age",
+        "female",
+        "education_level",
+        "index_cognition",
+        "previous_cognition"
+      ],
+      "artifact": "model_artifacts/m2_repeat_assessment_charls_frozen_2026-07-16.joblib",
+      "artifact_sha256": "a22b6dbfe761eb2492e46f10befaab2c85ab0d46889b84704f8f79f7498fa558",
+      "round_trip_verification": {
+        "hrs_n": 13118,
+        "hrs_events": 4529,
+        "auroc": 0.7744962728518849,
+        "auprc": 0.6528768003590903,
+        "brier": 0.19244504498948967,
+        "predictions_bitwise_identical_after_reload": true
+      }
+    }
+  },
+  "elsa_rule": "Apply these saved preprocessing and model pipelines unchanged. Do not select predictors, tune hyperparameters, or refit coefficients in ELSA."
+}

@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated article and this software release."
+title: "Repeat Cognitive Assessment and Memory Decline Prediction Across CHARLS, HRS, and ELSA"
+type: software
+version: 0.1.0
+date-released: 2026-07-17
+license: MIT
+repository-code: "https://github.com/sducp-88/repeat-cognition-prediction"
+authors:
+  - family-names: Li
+    given-names: Fan
+  - family-names: Feng
+    given-names: Feifei
+  - family-names: Zhuang
+    given-names: Xianghua
+  - family-names: Bi
+    given-names: Zhichao
+  - family-names: Bian
+    given-names: Xianli
+  - family-names: Jin
+    given-names: Suqin
+  - family-names: Cheng
+    given-names: Peng
+keywords:
+  - cognitive decline
+  - memory
+  - longitudinal cohort
+  - prediction model
+  - external validation
+  - CHARLS
+  - HRS
+  - ELSA

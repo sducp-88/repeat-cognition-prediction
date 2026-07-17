@@ -1,0 +1,19 @@
+﻿dataset,calibration,model,threshold,selected_n,true_positive_n,false_positive_n,net_benefit,treat_all_net_benefit,treat_none_net_benefit
+HRS external validation,cv_intercept_slope,M1_single_assessment,0.1,12159,4473,7686,0.27588046958377804,0.2725008893632159,0.0
+HRS external validation,cv_intercept_slope,M2_repeat_assessment,0.1,11478,4429,7049,0.27792176991750095,0.2725008893632159,0.0
+HRS external validation,cv_intercept_slope,M1_single_assessment,0.15,10922,4300,6622,0.23871106606997117,0.22970682403164036,0.0
+HRS external validation,cv_intercept_slope,M2_repeat_assessment,0.15,10176,4274,5902,0.24641489466651118,0.22970682403164036,0.0
+HRS external validation,cv_intercept_slope,M1_single_assessment,0.2,9596,4090,5506,0.2068531788382375,0.1815635005336179,0.0
+HRS external validation,cv_intercept_slope,M2_repeat_assessment,0.2,8983,4068,4915,0.21643924378716264,0.1815635005336179,0.0
+HRS external validation,cv_intercept_slope,M1_single_assessment,0.25,8292,3775,4517,0.17299385068862122,0.12700106723585905,0.0
+HRS external validation,cv_intercept_slope,M2_repeat_assessment,0.25,7792,3777,4015,0.1859023225085124,0.12700106723585905,0.0
+HRS external validation,cv_intercept_slope,M1_single_assessment,0.3,6998,3410,3588,0.14272646091520913,0.06464400060984898,0.0
+HRS external validation,cv_intercept_slope,M2_repeat_assessment,0.3,6674,3479,3195,0.16082590987302067,0.06464400060984898,0.0
+HRS external validation,cv_intercept_slope,M1_single_assessment,0.35,5791,3019,2772,0.11635802831106988,-0.007306460881701116,0.0
+HRS external validation,cv_intercept_slope,M2_repeat_assessment,0.35,5688,3147,2541,0.13559759344177696,-0.007306460881701116,0.0
+HRS external validation,cv_intercept_slope,M1_single_assessment,0.4,4613,2565,2048,0.09145194897596172,-0.09124866595517633,0.0
+HRS external validation,cv_intercept_slope,M2_repeat_assessment,0.4,4726,2784,1942,0.11353356710880719,-0.09124866595517633,0.0
+HRS external validation,cv_intercept_slope,M1_single_assessment,0.45,3667,2166,1501,0.07149787245838471,-0.1904530901329195,0.0
+HRS external validation,cv_intercept_slope,M2_repeat_assessment,0.45,3920,2456,1464,0.09591262526161136,-0.1904530901329195,0.0
+HRS external validation,cv_intercept_slope,M1_single_assessment,0.5,2804,1778,1026,0.05732581186156421,-0.30949839914621163,0.0
+HRS external validation,cv_intercept_slope,M2_repeat_assessment,0.5,3178,2110,1068,0.07943284037200789,-0.30949839914621163,0.0
